@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798174800047",
+    "project_id": "chat-app-tryout",
+    "storage_bucket": "chat-app-tryout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798174800047:android:58d017fe311656d5ce0c5a",
+        "android_client_info": {
+          "package_name": "com.NaralC.chat_app_tryout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798174800047-el731ppgbml9p05q1skb26rba169eirg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Mp6SYEMsMhTqHtIzjUVrJAcbRT7oGt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798174800047-el731ppgbml9p05q1skb26rba169eirg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
